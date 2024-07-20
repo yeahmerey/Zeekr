@@ -1,0 +1,1 @@
+Dhikr is the remembrance of Allah, this project is dedicated to counting, every 33rd Dhikr and every 100th Dhikr a push notification will be sent to the user to congratulate him, this may be a chapter of my future project
